@@ -1,0 +1,73 @@
+navbar {
+  justify-content: center;
+}
+h3 {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+h1 {
+  padding-top: 10px;
+  padding-bottom: 10px;
+
+}
+
+img {
+  padding-top: 50px;
+  padding-bottom: 50px;
+
+
+}
+.navbar-brand {
+  font-size: 1.5rem;
+  cursor: none;
+  object-fit: cover;
+
+}
+.custom-img {
+  width: 590px;
+  height: 760px;
+}
+
+.jumbotron {
+  background-color: white;
+  color: gray;
+}
+
+.jumbotron h1 {
+  font-size: 3rem;
+}
+
+.jumbotron p {
+  font-size: 1.5rem;
+}
+
+.text-gray {
+  color: gray;
+}
+
+.img-fluid {
+  transition: transform 0.3s;
+}
+
+.img-fluid:hover {
+  transform: scale(1.05);
+}
+
+.last-one {
+  padding-bottom: 100px;
+}
+.footer {
+  background-color: #f8f9fa;
+  padding: 20px 0;
+  text-align: center;
+}
+.footer a {
+  color: #6c757d;
+  margin: 0 15px;
+  font-size: 24px;
+  transition: color 0.3s;
+}
+.footer a:hover {
+  color: #343a40;
+}
