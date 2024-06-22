@@ -9,28 +9,21 @@ h3 {
 h1 {
   padding-top: 10px;
   padding-bottom: 10px;
-
 }
 
 img {
   padding-top: 50px;
   padding-bottom: 50px;
-
-
+  border-radius: 15px;
 }
 .navbar-brand {
   font-size: 1.5rem;
   cursor: none;
   object-fit: cover;
-
-}
-.custom-img {
-  width: 590px;
-  height: 760px;
 }
 
 .jumbotron {
-  background-color: white;
+  background-color: rgb(37, 30, 30);
   color: gray;
 }
 
@@ -48,6 +41,11 @@ img {
 
 .img-fluid {
   transition: transform 0.3s;
+}
+.custom-img {
+  width: 590px;
+  height: 760px;
+  border-radius: 15px
 }
 
 .img-fluid:hover {
